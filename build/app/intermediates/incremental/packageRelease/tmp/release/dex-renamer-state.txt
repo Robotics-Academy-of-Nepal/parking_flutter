@@ -1,0 +1,4 @@
+#Thu Jan 16 19:10:54 NPT 2025
+base.0=D\:\\Programming\\flutter-parking\\sumi\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

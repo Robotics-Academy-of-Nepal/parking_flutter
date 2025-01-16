@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/drawable-anydpi-v21/ic_call_decline_low.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-13:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/drawable-anydpi-v21/ic_call_answer_low.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-13:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/drawable-anydpi-v21/ic_call_answer_video.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-13:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/drawable-anydpi-v21/ic_call_answer.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-13:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/drawable-anydpi-v21/ic_call_decline.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-13:/drawable-anydpi-v21/ic_call_decline.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/drawable-anydpi-v21/ic_call_answer_video_low.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-13:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    }
+]

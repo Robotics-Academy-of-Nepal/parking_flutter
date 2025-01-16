@@ -1,0 +1,28 @@
+^D:\PROGRAMMING\FLUTTER-PARKING\SUMI\BUILD\WINDOWS\X64\CMAKEFILES\38DDB005D59C8A3DB3BB41FAB90A7281\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\Programming\flutter PROJECT_DIR=D:\Programming\flutter-parking\sumi FLUTTER_ROOT=D:\Programming\flutter FLUTTER_EPHEMERAL_DIR=D:\Programming\flutter-parking\sumi\windows\flutter\ephemeral PROJECT_DIR=D:\Programming\flutter-parking\sumi FLUTTER_TARGET=D:\Programming\flutter-parking\sumi\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\Programming\flutter-parking\sumi\.dart_tool\package_config.json D:/Programming/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROGRAMMING\FLUTTER-PARKING\SUMI\BUILD\WINDOWS\X64\CMAKEFILES\1C41DDF18853EF7E50030CF728D91F02\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROGRAMMING\FLUTTER-PARKING\SUMI\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Programming/flutter-parking/sumi/windows -BD:/Programming/flutter-parking/sumi/build/windows/x64 --check-stamp-file D:/Programming/flutter-parking/sumi/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

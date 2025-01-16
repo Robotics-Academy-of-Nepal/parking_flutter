@@ -1,0 +1,10 @@
+^D:\PROGRAMMING\FLUTTER-PARKING\SUMI\BUILD\WINDOWS\X64\CMAKEFILES\826204A4FDA6B5E5AF2444C5B6C53168\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

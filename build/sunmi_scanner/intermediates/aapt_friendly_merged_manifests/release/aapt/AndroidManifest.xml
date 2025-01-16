@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sunmi_scanner" >
+
+    <uses-sdk android:minSdkVersion="19" />
+
+    <queries>
+        <package android:name="com.sunmi.scanner" />
+    </queries>
+
+</manifest>

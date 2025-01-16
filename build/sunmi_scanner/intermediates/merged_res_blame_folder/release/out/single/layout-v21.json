@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.sunmi_scanner-merged_res-25:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.example.sunmi_scanner-core-1.13.1-12:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.example.sunmi_scanner-merged_res-25:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.example.sunmi_scanner-core-1.13.1-12:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.example.sunmi_scanner-merged_res-25:/layout-v21/notification_action.xml",
+        "source": "com.example.sunmi_scanner-core-1.13.1-12:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.example.sunmi_scanner-merged_res-25:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.example.sunmi_scanner-core-1.13.1-12:/layout-v21/notification_action_tombstone.xml"
+    }
+]

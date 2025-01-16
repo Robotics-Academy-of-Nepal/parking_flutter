@@ -1,0 +1,1 @@
+ D:\\Programming\\flutter-parking\\sumi\\.dart_tool\\flutter_build\\af8bffbbb46de104c26e1febbf92ea80\\native_assets.yaml: 

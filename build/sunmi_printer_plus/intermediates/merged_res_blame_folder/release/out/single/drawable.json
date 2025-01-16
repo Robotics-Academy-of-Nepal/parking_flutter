@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/drawable/notification_bg.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-13:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/drawable/notification_icon_background.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-13:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/drawable/notification_bg_low.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-13:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/drawable/notification_tile_bg.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-13:/drawable/notification_tile_bg.xml"
+    }
+]
